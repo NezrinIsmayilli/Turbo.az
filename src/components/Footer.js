@@ -4,7 +4,6 @@ import {FaFacebookF, FaInstagram} from 'react-icons/fa'
 import {GrMail} from 'react-icons/gr'
 import {BsFillTelephoneFill} from 'react-icons/bs'
 
-
 const Footer = () => {
     return (
         <div className='footer '>

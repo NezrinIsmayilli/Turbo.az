@@ -1,23 +1,9 @@
 .app{
     background-color: rgb(241, 241, 241);
-// background-size: cover;
-//     background-image: url(../img/adv.jpg);
-//     background-attachment: fixed;
-//     background-repeat: no-repeat;
-}
 .home{
- 
-    // background-image: url('/src/img/reklam1.png');
-    // background-repeat: no-repeat;
-    // background-attachment: fixed;
-    // height: 100%;
-    // background-position: left;
-    // background-size:contain;
     .end{
         margin: 50px 0px 50px 0px;
     }
-    
-}
 .cars{
     display: flex;
     flex-direction: column;
@@ -48,4 +34,6 @@
         padding-top: 40px;
     }
 
+}
+}
 }

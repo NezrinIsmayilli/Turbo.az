@@ -1,6 +1,5 @@
 import React from 'react'
 import Box from './Box'
-
 import kapital from "../img/kapital.png"
 
 
