@@ -23,7 +23,7 @@ const WishList = () => {
                 <div>
                     <div className="row">
                         {wishList.map(list => (
-                                <Box key={list.id} vipcars={list} category="wishlist" />
+                                <Box key={list.id} cars={list} category="wishlist" />
                         ))}
                     </div>
                 </div>

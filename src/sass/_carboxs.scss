@@ -12,12 +12,16 @@
         background-color: white;
         position: relative;
         .top{
+            img{
+                width: 100%;
+                border-radius: 10px 10px 0px 0px;
+            }
             .extra{
                 position: absolute;
                 top: 0;
                 right: 10px;
                 p{
-                    color: red;
+                    color: white;
                     font-size: 30px;
                 }
             }
