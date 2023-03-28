@@ -16,7 +16,7 @@ const Home = () => {
       dispatch(getVipcars());
       dispatch(getEndadv());
       dispatch(getPremium());
-  },[])
+  },[dispatch])
 
   
   return (
